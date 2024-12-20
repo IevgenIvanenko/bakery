@@ -1,0 +1,139 @@
+{
+	"ORDER": {
+	  "SUCCESS_MESSAGE": "We will contact you as quickly as possible!",
+	  "ERROR_MESSAGE": "Something went wrong."
+	},
+	
+	"MENU": {
+		  "CATALOG": "Catalog",
+		  "ABOUT_US": "About us",
+		  "CHECKOUT": "Checkout"
+		},
+		"MAIN": {
+		  "TITLE": "The magic of taste in every crumb",
+		  "DESCRIPTION": "Our recipes breathe life into the delicacy of ingredients: aromatic natural butter, fresh cream, pure honey and selected flour. We carefully select every component of premium cookies, striving to give you true culinary pleasure.",
+		  "ORDER_NOW": "Order Now"
+		},
+		"SECTION_PRODUCTS": {
+		  "TITLE": "Choose your cookies",
+		  "ORDER_NOW": "Order Now"
+		},
+		"LOVE": {
+		  "TITLE": "Bakery with love",
+		  "DESCRIPTION_TITLE": "Prepared with care to delight you every day",
+		  "DESCRIPTION_TEXT": "We are proud to present our cookies, which we have baked by hand every day since 1995, using only the finest ingredients. Immerse yourself in the world of exquisite delicacies prepared using advanced technologies and enjoy their unique taste."
+		},
+		"SECTION_ORDER": {
+		  "TITLE": "Order cookies",
+		  "DESCRIPTION": "Discover the magic of taste with our premium cookies! Order now and plunge into the world of sweet delights.",
+		  "SELECT_COOKIE": "Select cookies",
+		  "NAME": "Your name",
+		  "PHONE": "Your phone",
+		  "PLACE_ORDER": "Place order"
+		},
+		"FOOTER": {
+		  "RIGHTS": "All rights reserved"
+		},
+
+		
+	
+	"PRODUCTS": [
+	  {
+		 "image":"./assets/images/products/product1.jpg",
+		 "title": "Best Friends",
+		 "text": "The cookies that started it all! Our signature cookies with chocolate chips and walnuts are crispy on the outside with a thick and gooey center.",
+		 "price": 8,
+		 "basePrice": 8,
+		 "weight": "2 pcs / 200 g"
+	  },
+	  {
+		 "image": "./assets/images/products/product2.jpg",
+		 "title": "Chocolate Frenchman",
+		 "text": "This cookie, made with dark French cocoa and semi-sweet chocolate chips, is sure to satisfy even the most avid chocolate lover.",
+		 "price": 10,
+		 "basePrice": 10,
+		 "weight": "2 pcs / 200 g"
+	  },
+	  {
+		 "image": "./assets/images/products/product3.jpg",
+		 "title": "Oatmeal with Raisins, Sir!",
+		 "text": "This buttery six-ounce cookie is golden-brown on the outside, moist on the inside, and filled with plump sweet raisins.",
+		 "price": 7,
+		 "basePrice": 7,
+		 "weight": "2 pcs / 200 g"
+	  },
+	  {
+		 "image": "4.png",
+		 "title": "Chocolate Delight",
+		 "text": "Perfectly crispy on the outside and thick and gooey in the center, this cookie is filled with semi-sweet and dark chocolate chips, giving a rich depth of flavor.",
+		 "price": 10,
+		 "basePrice": 10,
+		 "weight": "2 pcs / 200 g"
+	  },
+	  {
+		 "image": "5.png",
+		 "title": "Peanut Paradise",
+		 "text": "Sweet, savory, and perfectly balanced cookies satisfy cravings for peanut butter and chocolate lovers.",
+		 "price": 8,
+		 "basePrice": 8,
+		 "weight": "2 pcs / 200 g"
+	  },
+	  {
+		 "image": "6.png",
+		 "title": "Chocolate Nutty Treat",
+		 "text": "Our signature chocolate chip and walnut cookie recipe guarantees an unforgettable taste experience. Each cookie is crispy on the outside but reveals a tender core inside.",
+		 "price": 7,
+		 "basePrice": 7,
+		 "weight": "2 pcs / 200 g"
+	  },
+	  {
+		 "image": "7.png",
+		 "title": "Signature Cookie Assortment",
+		 "text": "Why choose one when you can have them all? Our classic cookie assortment includes one of each of our four original cookie flavors.",
+		 "price": 16,
+		 "basePrice": 16,
+		 "weight": "4 pcs / 400 g"
+	  },
+	  {
+		 "image": "8.png",
+		 "title": "Lemon Cookies",
+		 "text": "Spring is just around the corner, but we couldn't wait to bring you a little sunshine: our first lemon cookie. This treat is chewy, lemony, not too sweet, and even a little... refreshing?",
+		 "price": 15,
+		 "basePrice": 15,
+		 "weight": "4 pcs / 400 g"
+	  },
+	  {
+		 "image": "9.png",
+		 "title": "Chocolate Lovers",
+		 "text": "You no longer have to pick favorites. We made this set for all the people who truly love chocolate...",
+		 "price": 16,
+		 "basePrice": 16,
+		 "weight": "4 pcs / 400 g"
+	  },
+	  {
+		 "image": "10.png",
+		 "title": "Caramel and Coconut",
+		 "text": "Indulge in coconut, buttery, caramel cookies with an unprecedented flavor and texture. Enjoy them year-round.",
+		 "price": 14,
+		 "basePrice": 14,
+		 "weight": "4 pcs / 400 g"
+	  },
+	  {
+		 "image": "11.png",
+		 "title": "Vegan Chocolate Chip",
+		 "text": "Our vegan, gluten-free cookies contain crunchy walnut pieces and semi-sweet vegan chocolate chips.",
+		 "price": 18,
+		 "basePrice": 18,
+		 "weight": "4 pcs / 400 g"
+	  },
+	  {
+		 "image": "12.png",
+		 "title": "Crème Brûlée Nut Cookie",
+		 "text": "Using a unique blend of ingredients, we created cookies with crème brûlée pieces and almonds that promise an unparalleled gastronomic experience. Each bite has a crispy crust and melts in your mouth.",
+		 "price": 16,
+		 "basePrice": 16,
+		 "weight": "4 pcs / 400 g"
+	  }
+	]
+ }
+ 
